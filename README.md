@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lur15
-- 👀 I’m interested in learn the basics of programming
-- 🌱 I’m currently learning j.s.
+- 👀 I’m interested in learning the basics of programming
+- 🌱 I’m currently learning HTML.
 - 💞️ I’m looking to collaborate on programming projects ideas for begginers 
 - 📫 How to reach me luri.cl95@gmail.com or Luri#0635 (discord)
 <!---
